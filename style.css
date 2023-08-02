@@ -79,6 +79,7 @@ body {
 
 .small {
   font-size: 10px;
+  background-color: red;
 }
 
 /* here is goes the midel of the pg*/
@@ -111,6 +112,9 @@ body {
   background-repeat: no-repeat;
 
 }
+
+
+
 .list-inline {
   display: inline-block;
   padding: 0px 20px;
@@ -189,12 +193,6 @@ footer {
 .color-r:hover {
   font-size: 30px;
 }
-
-
-
-
-
-
 
  /* here is goes de contacto */
 
@@ -297,7 +295,7 @@ textarea {
 
 
 footer {
-  margin-top: 20rem;
+ 
   margin-right: 190px;
   display: flex;
   flex-direction: column;
