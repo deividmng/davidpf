@@ -1,0 +1,71 @@
+label{
+  opacity: 20%;
+  color: rgb(216, 199, 199);
+}
+
+
+fieldset legend{
+  color: #2e313d;
+}
+input{
+  opacity: 50%;
+}
+textarea {
+  opacity: 20%;
+}
+
+.top {
+  margin-top: 15px;
+}
+
+
+.formulario {
+  background-color:#7a8c93; ;
+  padding: 20px;
+  border-radius: 20px; /* Ajusta este valor para cambiar el radio de los bordes */
+  width: 400px; /* Ajusta el ancho del formulario según tus necesidades */
+  margin: 0 auto; /* Centra el formulario horizontalmente en su contenedor */
+  line-height: -33px;
+
+}
+
+
+
+
+footer {
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 70px;
+  margin-right: 190px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centrar horizontalmente */
+  justify-content: center; /* Centrar verticalmente */
+  text-align: center; /* Para centrar el texto dentro de los elementos */
+  margin-left: 25px;
+}
+
+.footer h3 {
+  margin-bottom: 10px; /* Agregar un pequeño espacio entre el h3 y el ul */
+}
+
+.footer ul {
+  display: flex;
+  list-style: none;
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+}
+
+
+.fab{
+
+  color: #575F7D;
+}
+
+
+
+.button-nav-f a {
+  color: #2e313d;
+}
